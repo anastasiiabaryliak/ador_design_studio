@@ -1529,7 +1529,7 @@ color: #3B533D;
         left: 1402px;
     }
 }
-@media screen and (max-width: 360px) { 
+@media screen and (max-width: 390px) { 
     header{ 
         width: 162px;
         left: 1177px;
